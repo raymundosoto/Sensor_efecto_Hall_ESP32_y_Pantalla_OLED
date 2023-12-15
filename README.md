@@ -27,8 +27,6 @@ Este repositorio tiene como objetivo explorar y demostrar algunas de estas aplic
 
 Conexión de pines
 | ESP32|OLED |
-|--|--|
-|--|--|
 | GND | GND |
 | 3.3 V | VCC |
 |GPIO 22| SCL |
