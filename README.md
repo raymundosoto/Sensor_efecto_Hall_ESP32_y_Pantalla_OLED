@@ -28,9 +28,10 @@ Este repositorio tiene como objetivo explorar y demostrar algunas de estas aplic
 Conexión de pines
 |  ESP32|OLED  |
 |--|--|
-| 3.3 V |VCC  |
-|GPIO 22|SCL|
-| GPIO 21 |SDA  |
+| GND | GND |
+| 3.3 V | VCC |
+|GPIO 22| SCL |
+| GPIO 21 | SDA |
 
 ![imagen](https://github.com/raymundosoto/Sensor_efecto_Hall_ESP32_y_Pantalla_OLED/assets/72757419/8fadb825-9dc2-41b0-bf62-b1c7ac0a1a93)
 
