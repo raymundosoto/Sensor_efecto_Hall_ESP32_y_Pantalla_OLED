@@ -22,3 +22,12 @@ Las posibles aplicaciones del sensor de efecto Hall en proyectos son diversas y 
 - Aplicaciones Automotrices: En la industria automotriz, se puede emplear para detectar la posición del pedal del freno, la posición del cigüeñal, entre otros usos.
 
 Este repositorio tiene como objetivo explorar y demostrar algunas de estas aplicaciones a través de un proyecto que utiliza el ESP32 y su sensor de efecto Hall. A través de este material, se proporcionará información, código y recursos para facilitar el entendimiento y la implementación de esta tecnología en proyectos propios.
+
+## Esquema de conexión entre la pantalla OLED y el ESP32
+
+
+![imagen](https://github.com/raymundosoto/Sensor_efecto_Hall_ESP32_y_Pantalla_OLED/assets/72757419/8fadb825-9dc2-41b0-bf62-b1c7ac0a1a93)
+
+
+
+
