@@ -11,14 +11,14 @@ El ESP32 incorpora un sensor de efecto Hall, el cual puede detectar cambios en c
 
 Las posibles aplicaciones del sensor de efecto Hall en proyectos son diversas y fascinantes:
 
-    Medición de Velocidad y Posición: El sensor puede utilizarse para medir la velocidad de rotación en motores, así como la posición de objetos magnéticos.
+- Medición de Velocidad y Posición: El sensor puede utilizarse para medir la velocidad de rotación en motores, así como la posición de objetos magnéticos.
 
-    Interruptores Magnéticos: Es posible diseñar interruptores sin contacto para detectar la apertura o cierre de puertas, ventanas o compartimentos.
+- Interruptores Magnéticos: Es posible diseñar interruptores sin contacto para detectar la apertura o cierre de puertas, ventanas o compartimentos.
 
-    Control de Acceso: Implementación en sistemas de seguridad o control de acceso que involucren la detección de tarjetas magnéticas o dispositivos similares.
+- Control de Acceso: Implementación en sistemas de seguridad o control de acceso que involucren la detección de tarjetas magnéticas o dispositivos similares.
 
-    Sensores de Corriente: Puede ser parte integral en el diseño de sensores de corriente, permitiendo la medición precisa y no invasiva de esta magnitud.
+- Sensores de Corriente: Puede ser parte integral en el diseño de sensores de corriente, permitiendo la medición precisa y no invasiva de esta magnitud.
 
-    Aplicaciones Automotrices: En la industria automotriz, se puede emplear para detectar la posición del pedal del freno, la posición del cigüeñal, entre otros usos.
+- Aplicaciones Automotrices: En la industria automotriz, se puede emplear para detectar la posición del pedal del freno, la posición del cigüeñal, entre otros usos.
 
 Este repositorio tiene como objetivo explorar y demostrar algunas de estas aplicaciones a través de un proyecto que utiliza el ESP32 y su sensor de efecto Hall. A través de este material, se proporcionará información, código y recursos para facilitar el entendimiento y la implementación de esta tecnología en proyectos propios.
