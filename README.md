@@ -26,7 +26,8 @@ Este repositorio tiene como objetivo explorar y demostrar algunas de estas aplic
 ## Esquema de conexión entre la pantalla OLED y el ESP32
 
 Conexión de pines
-|  ESP32|OLED  |
+| ESP32|OLED |
+|--|--|
 |--|--|
 | GND | GND |
 | 3.3 V | VCC |
